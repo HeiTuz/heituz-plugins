@@ -1,0 +1,23 @@
+{
+  "name": "heituz",
+  "interface": {
+    "displayName": "HeiTuz"
+  },
+  "plugins": [
+    {
+      "name": "mpw",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/HeiTuz/MPW.git",
+        "path": "./plugins/mpw",
+        "ref": "mpw-plugin-v3.0.0",
+        "sha": "2183f28100a21d372502248ce671a39b9362f364"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "heituz",
+  "owner": {
+    "name": "HeiTuz",
+    "url": "https://github.com/HeiTuz"
+  },
+  "metadata": {
+    "description": "HeiTuz prompt and image-production skills"
+  },
+  "plugins": [
+    {
+      "name": "mpw",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/HeiTuz/MPW.git",
+        "path": "./plugins/mpw",
+        "ref": "mpw-plugin-v3.0.0",
+        "sha": "2183f28100a21d372502248ce671a39b9362f364"
+      },
+      "description": "거친 요청을 결과·검증까지 닫힌 프롬프트로 바꾸는 작성·검토 스킬",
+      "category": "productivity",
+      "homepage": "https://github.com/HeiTuz/MPW"
+    }
+  ]
+}
