@@ -10,8 +10,8 @@
         "source": "git-subdir",
         "url": "https://github.com/HeiTuz/MPW.git",
         "path": "./plugins/mpw",
-        "ref": "mpw-plugin-v3.0.0",
-        "sha": "2183f28100a21d372502248ce671a39b9362f364"
+        "ref": "mpw-plugin-v3.0.1",
+        "sha": "e0a24ce7820d987f24617e75b4d017cd41bb8d2c"
       },
       "policy": {
         "installation": "AVAILABLE",
