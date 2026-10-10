@@ -14,8 +14,8 @@
         "source": "git-subdir",
         "url": "https://github.com/HeiTuz/MPW.git",
         "path": "./plugins/mpw",
-        "ref": "mpw-plugin-v3.3.3",
-        "sha": "2e3a0a7c20b20502a8c54aa4f80e2ac96b3bca94"
+        "ref": "mpw-plugin-v3.3.4",
+        "sha": "0793ce2835ac877c0c25ff8a8c700839067f32ac"
       },
       "description": "거친 요청을 결과·검증까지 닫힌 프롬프트로 바꾸는 작성·검토 스킬",
       "category": "productivity",
